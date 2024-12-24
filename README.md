@@ -108,8 +108,8 @@ The **Fulgur** is a web-based application designed to simulate and manage variou
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/ElectricCarManagementSystem.git
-    cd ElectricCarManagementSystem
+    git clone https://github.com/yourusername/Fulgur.git
+    cd Fulgur
     ```
 
 2. **Build and Start the Containers**
