@@ -138,9 +138,15 @@ The **Fulgur** is a web-based application designed to simulate and manage variou
 Upon accessing the application at [http://localhost:5000](http://localhost:5000), you will be presented with a web interface displaying two main diagrams:
 
 - **Component Diagram:**
+  
+  ![Component Diagram](Component.png)
+  
   - **Description:** Visualizes the architecture and components of the Fulgur, illustrating how different modules interact with each other and external services.
 
 - **Use Case Diagram:**
+  
+  ![Use Case Diagram](UseCase.png)
+  
   - **Description:** Illustrates the interactions between the driver and the system's functionalities, showcasing the primary use cases and system boundaries.
 
 These diagrams are dynamically generated using the Graphviz library and are rendered in SVG format for scalability and clarity.
@@ -159,4 +165,6 @@ ElectricCarManagementSystem/
 │   └── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
+├── Component.png
+├── UseCase.png
 └── README.md
