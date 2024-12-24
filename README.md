@@ -108,7 +108,7 @@ The **Fulgur** is a web-based application designed to simulate and manage variou
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/Fulgur.git
+    git clone https://github.com/n-mukhin/Fulgur.git
     cd Fulgur
     ```
 
